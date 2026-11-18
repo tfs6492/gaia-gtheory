@@ -1,0 +1,33 @@
+# ---------------------------------------------------------------------------
+# GAIA content must NOT be committed.
+# The GAIA validation set is gated on Hugging Face and its maintainers ask that
+# questions/answers not be re-shared in plain text (to limit contamination).
+# Everything that contains question text, ground-truth answers, model answers
+# or trajectories therefore lives in data/private/ or raw/ and stays local.
+# Re-create it with harness/fetch_gaia.py (+ your own runs).
+# ---------------------------------------------------------------------------
+data/private/
+raw/
+
+# Model fits are large and fully reproducible from R/ -> keep only CSV tables.
+outputs/**/*.rds
+# Manual-audit sheets contain answers -> private.
+outputs/**/*_audit*.csv
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Editors / agents / OS
+.claude/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

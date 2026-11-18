@@ -1,0 +1,5 @@
+group,n,success,tasks
+leak-flagged run,321,0.8411214953271028,21
+other run,3919,0.549630007655014,53
+attachment task (file never supplied),880,0.5931818181818181,11
+no-attachment task,3360,0.5660714285714286,42

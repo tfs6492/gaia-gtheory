@@ -1,0 +1,11 @@
+grp,component,variance,pct,pct_l95,pct_u95,scale
+task_id,task,0.08368941023422999,34.24126039839426,21.58120771073125,45.138184688516034,probability (linear model)
+task_effort,task x effort,0.01583863253767669,6.48032695605311,2.8421562828627267,10.616844592478852,probability (linear model)
+task_scaffold,task x scaffold,0.013989008471749841,5.723559055511331,2.353300658279647,9.720189035271293,probability (linear model)
+cell,task x effort x scaffold,0.009295152572744882,3.8030825978503837,1.5935891552429644,6.466238298008835,probability (linear model)
+Residual,residual (run-to-run),0.12159880576826501,49.75177099219091,42.16582714202425,59.34396045486194,probability (linear model)
+task_id,task,6.2329833675547786,55.347943477841355,NA,NA,latent logit (GLMM)
+task_effort,task x effort,0.6428924244660422,5.708786863912031,NA,NA,latent logit (GLMM)
+task_scaffold,task x scaffold,0.8093132058462688,7.186578068893939,NA,NA,latent logit (GLMM)
+cell,task x effort x scaffold,0.28639718073654313,2.543163367663197,NA,NA,latent logit (GLMM)
+Residual,residual (run-to-run),3.289868133696453,29.213528221689486,NA,NA,latent logit (GLMM)

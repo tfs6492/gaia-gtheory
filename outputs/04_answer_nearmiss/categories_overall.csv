@@ -1,0 +1,7 @@
+answer_category,n,pct
+exact_correct,2424,57.16981132075472
+units_scale_error,45,1.0613207547169812
+numeric_near_miss,0,0
+string_near_miss,89,2.099056603773585
+wrong,1475,34.7877358490566
+no_answer,207,4.882075471698113

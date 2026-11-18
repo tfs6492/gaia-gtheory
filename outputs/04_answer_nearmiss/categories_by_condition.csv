@@ -1,0 +1,25 @@
+condition,answer_category,n,pct
+low / tool,exact_correct,590,55.660377358490564
+low / tool,units_scale_error,11,1.0377358490566038
+low / tool,numeric_near_miss,0,0
+low / tool,string_near_miss,33,3.1132075471698113
+low / tool,wrong,423,39.905660377358494
+low / tool,no_answer,3,0.2830188679245283
+low / code,exact_correct,550,51.886792452830186
+low / code,units_scale_error,15,1.4150943396226414
+low / code,numeric_near_miss,0,0
+low / code,string_near_miss,24,2.2641509433962264
+low / code,wrong,461,43.490566037735846
+low / code,no_answer,10,0.9433962264150944
+high / tool,exact_correct,701,66.13207547169812
+high / tool,units_scale_error,8,0.7547169811320755
+high / tool,numeric_near_miss,0,0
+high / tool,string_near_miss,20,1.8867924528301887
+high / tool,wrong,318,30
+high / tool,no_answer,13,1.2264150943396226
+high / code,exact_correct,583,55
+high / code,units_scale_error,11,1.0377358490566038
+high / code,numeric_near_miss,0,0
+high / code,string_near_miss,12,1.1320754716981132
+high / code,wrong,273,25.754716981132077
+high / code,no_answer,181,17.07547169811321

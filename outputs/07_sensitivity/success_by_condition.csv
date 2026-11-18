@@ -1,0 +1,21 @@
+condition,n,success,subset
+low / tool,1060,0.5566037735849056,all_runs
+low / code,1060,0.5188679245283019,all_runs
+high / tool,1060,0.6613207547169812,all_runs
+high / code,1060,0.55,all_runs
+low / tool,1059,0.5571293673276676,timeouts_missing
+low / code,1060,0.5188679245283019,timeouts_missing
+high / tool,1047,0.6695319961795606,timeouts_missing
+high / code,897,0.6499442586399108,timeouts_missing
+low / tool,840,0.5154761904761904,no_attachments
+low / code,840,0.5261904761904762,no_attachments
+high / tool,840,0.6202380952380953,no_attachments
+high / code,840,0.6023809523809524,no_attachments
+low / tool,964,0.5311203319502075,no_leak_flagged
+low / code,975,0.49435897435897436,no_leak_flagged
+high / tool,986,0.6430020283975659,no_leak_flagged
+high / code,994,0.5291750503018109,no_leak_flagged
+low / tool,818,0.5097799511002445,all_three
+low / code,819,0.5164835164835165,all_three
+high / tool,808,0.6237623762376238,all_three
+high / code,745,0.6563758389261745,all_three

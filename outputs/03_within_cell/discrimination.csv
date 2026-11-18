@@ -1,0 +1,6 @@
+metric,value
+"within-cell concordance, in-sample (full)",0.5394901559121429
+"within-cell concordance, in-sample (no wall time)",0.5135996358256515
+"within-cell concordance, 10-fold CV (full)",0.4937407533856834
+"within-cell concordance, 10-fold CV (no wall time)",0.5135996358256515
+"pooled AUC incl. cell intercepts (old, inflated)",0.8587977931159749

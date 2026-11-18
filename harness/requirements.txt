@@ -1,0 +1,12 @@
+# Python 3.11. Harness + aggregation only; all modelling and plotting is in R/.
+# Versions are those used for the 2026-06-26 run.
+smolagents[litellm,toolkit]==1.26.0
+litellm==1.87.1
+requests==2.34.2
+markdownify==1.2.2
+huggingface_hub==1.18.0
+pandas==3.0.3
+numpy==2.4.6
+# optional search backends (only the one you select is needed)
+tavily-python==0.7.26
+ddgs==9.14.4
